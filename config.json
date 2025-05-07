@@ -1,0 +1,11 @@
+{
+    "apps": {
+        "taptapup": {
+            "ads": {
+                "rewarded": {
+                    "limit": 3
+                }
+            }
+        }
+    }
+}
